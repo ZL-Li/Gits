@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/sh
 
 dirname='.gits'
 index='.gits/index'

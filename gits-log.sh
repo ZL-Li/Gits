@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/sh
 
 dirname='.gits'
 branches='.gits/branches'

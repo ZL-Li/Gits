@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/sh
 
 dirname='.gits'
 commits='.gits/commits'
