@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**Gits** is a simple git like version control system implementing many git commands in Shell, which is contraction of **git** **s**ubset.  
+**Gits** is a simple git like version control system implementing many git commands, which is contraction of **git** **s**ubset.  
 Git is a very complex program which has many individual commands. I will implement only a few of the most important commands. There will also be a number of simplifying assumptions ([Assumptions](#assumptions)), which make the task easier.
 
 ### Aims
@@ -34,9 +34,9 @@ Git is a very complex program which has many individual commands. I will impleme
 
 ### gits-init
 
-The gits-init command creates an empty Gits repository.
-gits-init creates a directory named .gits, which will use to store the repository. It produces an error message if this directory already exists.
-gits-init also creates initial files or directories inside .gits.
+The gits-init command creates an empty Gits repository.  
+gits-init creates a directory named .gits, which will be used to store the repository. It produces an error message if this directory already exists.  
+gits-init also creates initial files or directories inside .gits.  
 For example:
 
 ```
