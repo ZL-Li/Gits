@@ -1,11 +1,8 @@
 # Gits
----
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [# Gits](#-gits)
-- [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
   - [Aims](#aims)
   - [Built with](#built-with)
